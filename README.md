@@ -1,2 +1,1 @@
 # rain
-today is raining
